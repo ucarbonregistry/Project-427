@@ -46,3 +46,75 @@ Period March 2010 – Oct 2011. (https://cdm.unfccc.int/Projects/DB/SGS-UKL12513
 The project activity is a small-scale hydro project and was not applied under any other GHG mechanism
 prior to this registration with UCR Jan 2013 to Dec 2023. Also, the project has not been applied for any
 other environmental crediting or certification mechanism for this crediting period. Hence the project will not cause double accounting of carbon credits (i.e., CoUs)
+___________________
+ISSUE DATE: 21/06/2024
+
+QTY: 181404
+______________
+Serial Number: 0001-000001-019961-UCR-CoU-IN-427-01012013-31122013
+
+Vintage Year: 2013
+
+Quantity: 19961
+____________
+Serial Number: 0001-019962-039319-UCR-CoU-IN-427-01012014-31122014
+
+Vintage Year: 2014
+
+Quantity: 19358
+______________
+Serial Number: 0001-039320-056128-UCR-CoU-IN-427-01012015-31122015
+
+Vintage Year: 2015
+
+Quantity: 16809
+______________
+Serial Number: 0001-056129-068470-UCR-CoU-IN-427-01012016-31122016
+
+Vintage Year: 2016
+
+Quantity: 12342
+_______________
+Serial Number: 0001-068471-082819-UCR-CoU-IN-427-01012017-31122017
+
+Vintage Year: 2017
+
+Quantity: 14349
+____________
+Serial Number: 0001-082820-093550-UCR-CoU-IN-427-01012018-31122018
+
+Vintage Year: 2018
+
+Quantity: 10731
+________________
+Serial Number: 0001-093551-109248-UCR-CoU-IN-427-01012019-31122019
+
+Vintage Year: 2019
+
+Quantity: 15698
+__________________
+Serial Number: 0001-109249-123801-UCR-CoU-IN-427-01012020-31122020
+
+Vintage Year: 2020
+
+Quantity: 14553
+___________
+Serial Number: 0001-123802-146049-UCR-CoU-IN-427-01012021-31122021
+
+Vintage Year: 2021
+
+Quantity: 22248
+______________________
+Serial Number: 0001-146050-165597-UCR-CoU-IN-427-01012022-31122022
+
+Vintage Year: 2022
+
+Quantity: 19548
+_____________________
+Serial Number: 0001-165598-181404-UCR-CoU-IN-427-01012023-31122023
+
+Vintage Year: 2023
+
+Quantity: 15807
+_________________
+
